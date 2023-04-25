@@ -1,7 +1,9 @@
 #include "main.h"
 /**
  *_islower -function prints alphabets in lowercase
- *c: is the char in ASCII code
+ *
+ *@c: is the char in ASCII code
+ *
  * Return: 1 is lowercase 0 otherwise
  */
 int _islower(int c)
@@ -11,7 +13,7 @@ int _islower(int c)
 	return (1);
 	}
 	else
-{	
+	{
 		return (0);
 	}
 	_putchar('\n');
