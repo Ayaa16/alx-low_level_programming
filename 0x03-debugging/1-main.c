@@ -3,7 +3,6 @@
 /**
 * main - causes an infinite loop
 * Description: make infinite loop and stoped by remove while
-* @\\o/\n: parameter to make infinite loop
 * Return: 0
 */
 
