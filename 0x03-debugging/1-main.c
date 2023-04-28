@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - causes an infinite loop
-* @\\o/\n: to stop infinite loop
-* Return: 0
+*main - causes an infinite loop
+*@\\o/\n: to stop infinite loop
+*Return: 0
 */
 int main(void)
 {
