@@ -2,7 +2,7 @@
 
 /**
 * main - causes an infinite loop
-* Description:main make infinite loop and stoped by remove while
+* @\\o/\n: to stop infinite loop
 * Return: 0
 */
 int main(void)
